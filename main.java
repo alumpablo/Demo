@@ -5,5 +5,8 @@ public class main {
         System.out.println("Afegim una tercera línia.");
         System.out.println("Afegim una línia desde GitHub.");
         System.out.println("Afegim una línia VisualStudioCode.");
+        if (3 < 4) {
+            System.out.println("Entrem a l'if");
+        }
     }
 }
